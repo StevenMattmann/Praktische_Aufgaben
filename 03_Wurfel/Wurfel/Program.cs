@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _03_Würfel
+namespace Wurfel
 {
     internal static class Program
     {
@@ -16,8 +16,7 @@ namespace _03_Würfel
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new WurfelForm());
         }
     }
 }
-   

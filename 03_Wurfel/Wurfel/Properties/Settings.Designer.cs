@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _03_Würfel.Properties
+namespace Wurfel.Properties
 {
 
 

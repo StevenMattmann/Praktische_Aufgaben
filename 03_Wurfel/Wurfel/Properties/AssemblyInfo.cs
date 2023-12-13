@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("03_Würfel")]
+[assembly: AssemblyTitle("Wurfel")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("03_Würfel")]
-[assembly: AssemblyCopyright("Copyright © HP 2023")]
+[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyProduct("Wurfel")]
+[assembly: AssemblyCopyright("Copyright © HP Inc. 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("be2fe68e-c09b-4ad2-8cee-e7a41afddd94")]
+[assembly: Guid("c05bfb7c-296b-4c55-8180-e20d8dd8ce5f")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //
