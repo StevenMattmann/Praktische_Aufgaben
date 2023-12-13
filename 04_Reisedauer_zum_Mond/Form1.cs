@@ -21,5 +21,10 @@ namespace _04_Reisedauer_zum_Mond
         {
 
         }
+
+        private void reisedauer_berechnen_button_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

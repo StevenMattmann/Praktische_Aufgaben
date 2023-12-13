@@ -87,17 +87,22 @@
             // 
             // reisedauer_berechnen_button
             // 
+            this.reisedauer_berechnen_button.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.reisedauer_berechnen_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
+            this.reisedauer_berechnen_button.ForeColor = System.Drawing.SystemColors.ControlText;
             this.reisedauer_berechnen_button.Location = new System.Drawing.Point(43, 246);
             this.reisedauer_berechnen_button.Name = "reisedauer_berechnen_button";
             this.reisedauer_berechnen_button.Size = new System.Drawing.Size(252, 42);
             this.reisedauer_berechnen_button.TabIndex = 5;
             this.reisedauer_berechnen_button.Text = "Reisedauer Berechnen";
-            this.reisedauer_berechnen_button.UseVisualStyleBackColor = true;
+            this.reisedauer_berechnen_button.UseVisualStyleBackColor = false;
+            this.reisedauer_berechnen_button.Click += new System.EventHandler(this.reisedauer_berechnen_button_Click);
             // 
             // ergebniss_berechnung
             // 
             this.ergebniss_berechnung.Location = new System.Drawing.Point(195, 372);
             this.ergebniss_berechnung.Name = "ergebniss_berechnung";
+            this.ergebniss_berechnung.ReadOnly = true;
             this.ergebniss_berechnung.Size = new System.Drawing.Size(100, 20);
             this.ergebniss_berechnung.TabIndex = 6;
             // 
