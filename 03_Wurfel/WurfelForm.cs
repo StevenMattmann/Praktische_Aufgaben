@@ -12,18 +12,27 @@ namespace Wurfel
 {
     public partial class WurfelForm : Form
     {
-       
+
+        Wuerfel wuerfel = new Wuerfel();
+
         public WurfelForm()
         {
             InitializeComponent();
+
+           
         }
 
         private void WurfelnButton_Click(object sender, EventArgs e)
         {
-            Wuerfel wuerfel = new Wuerfel();
+          
             int Wurf = wuerfel.Werfen();
             TrowValueLabel.Text = Wurf.ToString();
             LasThrowValueLabel.Text = wuerfel.LetzterWurf.ToString();
+        }
+
+        private void WurfelForm_Load(object sender, EventArgs e)
+        {
+             
         }
     }
 }

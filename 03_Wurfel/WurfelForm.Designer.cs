@@ -37,7 +37,7 @@
             // WurfelnButton
             // 
             this.WurfelnButton.Location = new System.Drawing.Point(81, 63);
-            this.WurfelnButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.WurfelnButton.Margin = new System.Windows.Forms.Padding(2);
             this.WurfelnButton.Name = "WurfelnButton";
             this.WurfelnButton.Size = new System.Drawing.Size(192, 82);
             this.WurfelnButton.TabIndex = 0;
@@ -86,9 +86,10 @@
             this.Controls.Add(this.LasThrowValueLabel);
             this.Controls.Add(this.lastThrow);
             this.Controls.Add(this.WurfelnButton);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "WurfelForm";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.WurfelForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
