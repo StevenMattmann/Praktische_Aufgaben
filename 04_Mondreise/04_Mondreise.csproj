@@ -7,7 +7,7 @@
     <ProjectGuid>{A56771CD-2786-4677-91E4-6663E27B2C0F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_04_Mondreise</RootNamespace>
-    <AssemblyName>_04_Mondreise</AssemblyName>
+    <AssemblyName>04_Mondreise</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
