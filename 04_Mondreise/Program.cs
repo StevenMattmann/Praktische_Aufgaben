@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Reisedaurem_zum_Mond_Aufgabe
+namespace _04_Mondreise
 {
     internal static class Program
     {

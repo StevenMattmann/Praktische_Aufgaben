@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Reisedaurem_zum_Mond_Aufgabe.Properties
+namespace _05_Tannenbaum.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Reisedaurem_zum_Mond_Aufgabe.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Reisedaurem_zum_Mond_Aufgabe.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("_05_Tannenbaum.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

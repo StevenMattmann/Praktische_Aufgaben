@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Reisedaurem_zum_Mond_Aufgabe.Properties
+namespace _04_Mondreise.Properties
 {
 
 

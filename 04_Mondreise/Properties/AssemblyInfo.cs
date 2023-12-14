@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("Reisedaurem_zum_Mond_Aufgabe")]
+[assembly: AssemblyTitle("04_Mondreise")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("-")]
-[assembly: AssemblyProduct("Reisedaurem_zum_Mond_Aufgabe")]
-[assembly: AssemblyCopyright("Copyright © - 2023")]
+[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyProduct("04_Mondreise")]
+[assembly: AssemblyCopyright("Copyright © HP 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("9f06469b-1d9d-4c8f-863c-418a5c1a0f79")]
+[assembly: Guid("a56771cd-2786-4677-91e4-6663e27b2c0f")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //
