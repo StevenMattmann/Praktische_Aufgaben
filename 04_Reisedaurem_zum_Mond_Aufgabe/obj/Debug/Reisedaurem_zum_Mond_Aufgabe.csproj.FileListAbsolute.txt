@@ -1,0 +1,10 @@
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\obj\Debug\Reisedaurem_zum_Mond_Aufgabe.csproj.AssemblyReference.cache
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\obj\Debug\Reisedaurem_zum_Mond_Aufgabe.Form1.resources
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\obj\Debug\Reisedaurem_zum_Mond_Aufgabe.Properties.Resources.resources
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\obj\Debug\Reisedaurem_zum_Mond_Aufgabe.csproj.GenerateResource.cache
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\obj\Debug\Reisedaurem_zum_Mond_Aufgabe.csproj.CoreCompileInputs.cache
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\bin\Debug\Reisedaurem_zum_Mond_Aufgabe.exe.config
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\bin\Debug\Reisedaurem_zum_Mond_Aufgabe.exe
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\bin\Debug\Reisedaurem_zum_Mond_Aufgabe.pdb
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\obj\Debug\Reisedaurem_zum_Mond_Aufgabe.exe
+C:\Users\DOT_Schule\OneDrive - sluz\Basislehrjahr\OOP\Reisedaurem_zum_Mond_Aufgabe\Reisedaurem_zum_Mond_Aufgabe\obj\Debug\Reisedaurem_zum_Mond_Aufgabe.pdb
